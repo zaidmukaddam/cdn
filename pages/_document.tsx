@@ -15,7 +15,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
-          <script async src="https://cdn.splitbee.io/sb.js" />
+            <script async src='https://cdn.splitbee.io/sb.js'></script>
         </Head>
         <body>
           <Main />
