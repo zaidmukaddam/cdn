@@ -1,0 +1,33 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.7.6",
+    "@types/formidable": "^1.2.3",
+    "emoji-regex": "^9.2.2",
+    "formidable": "^2.0.1",
+    "formidable-serverless": "^1.1.1",
+    "framer-motion": "^4.1.17",
+    "next": "10.2.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-feather": "^2.0.9",
+    "react-file-drop": "^3.1.2",
+    "react-hot-toast": "^2.1.0",
+    "use-clipboard-copy": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.0",
+    "@types/react": "^17.0.6",
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2",
+    "typescript": "^4.2.4"
+  }
+}
